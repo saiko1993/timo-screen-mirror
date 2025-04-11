@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Timo Screen Mirror</string>
+    
+    <!-- Main Activity -->
+    <string name="app_logo">App Logo</string>
+    <string name="main_description">هذا التطبيق يسمح لك ببث شاشة تطبيق Timo على هاتفك إلى هاتف آخر والتحكم عن بعد</string>
+    <string name="sender_mode">وضع الإرسال (المصدر)</string>
+    <string name="receiver_mode">وضع الاستقبال (العرض)</string>
+    <string name="footer_text">تم تطويره بواسطة Timo</string>
+    
+    <!-- Sender Activity -->
+    <string name="sender_title">وضع الإرسال</string>
+    <string name="sender_description">هذا الوضع سيقوم بالتقاط صور للشاشة وإرسالها إلى Firebase. تأكد من تشغيل تطبيق Timo</string>
+    <string name="status_waiting">في انتظار بدء البث…</string>
+    <string name="start_mirroring">بدء البث</string>
+    <string name="stop_mirroring">إيقاف البث</string>
+    <string name="remote_control_title">التحكم عن بعد</string>
+    <string name="remote_control_description">لتمكين التحكم عن بعد، يجب تفعيل خدمة إمكانية الوصول</string>
+    <string name="enable_accessibility">تفعيل خدمة إمكانية الوصول</string>
+    
+    <!-- Receiver Activity -->
+    <string name="receiver_title">وضع الاستقبال</string>
+    <string name="connecting">جاري الاتصال بالجهاز البعيد…</string>
+    <string name="last_update">آخر تحديث: --:--:--</string>
+    <string name="remote_screen">شاشة الجهاز البعيد</string>
+    <string name="touch_instructions">اضغط على الشاشة للتحكم في الجهاز البعيد</string>
+    
+    <!-- Accessibility Service -->
+    <string name="accessibility_service_description">هذه الخدمة مطلوبة للسماح بالتحكم عن بعد في تطبيق Timo</string>
+</resources>
